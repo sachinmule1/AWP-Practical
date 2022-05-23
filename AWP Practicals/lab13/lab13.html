@@ -1,0 +1,26 @@
+<!--Create a XHTML form with Name, Address Line 1, Address Line 2, and E-mail text fields. 
+On submitting, store the values in MySQL table. 
+Retrieve and display the data based on Name.-->
+<html>
+          <form action="http://localhost/phppro/lab13/insert.php">
+               <fieldset>
+               <legend><h2>Insert Info</h2></legend>
+         			Full Name:<input type="text" name="name"><br>
+         			Addr  1:  <input type="text" name="addr1"><br>
+         			Addr  2:  <input type="text" name="addr2"><br>
+         			Email-ID: <input type="text" name="email"><br>
+         			<input type="submit" value="insert" />
+         			<input type="reset" value="reset" />
+               </fieldset>
+    		</form>
+
+    	
+    		<form action="http://localhost/phppro/lab13/search.php">
+               <fieldset>
+               <legend><h2>Search Info</h2></legend>
+         			Name:<input type="text" name="name" /><br>
+         			<input type="submit" value="search" />
+         			<input type="reset" value="reset" />
+               </fieldset>
+     	</form>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="lab5.css"?>
+<bu>
+	<student>
+		<usn>19SKSAC005</usn>
+		<name>Sachin</name>
+		<college>AIMS</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>sachin@gmail.com</email>
+	</student>
+	<student>
+		<usn>19SKSAC002</usn>
+		<name>Aniket</name>
+		<college>AIMS</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>aniket@gmail.com</email>
+	</student>
+	<student>
+		<usn>19SKSAC011</usn>
+		<name>Arghanish</name>
+		<college>AIMS</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>arghanish@gmail.com</email>
+	</student>
+</bu>

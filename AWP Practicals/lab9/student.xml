@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	
+	<item>
+		<usn>19SKSAC005</usn>
+		<name>
+		Sachin
+		</name>
+		<college>
+			AIMS
+		</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>sachin@gmail.com</email>
+	</item>
+
+	<item>
+		<usn>19SKSAC002</usn>
+		<name>
+		Aniket
+		</name>
+		<college>
+			AIMS
+		</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>aniket@gmail.com</email>
+	</item>
+
+	<item>
+		<usn>19SKSAC011</usn>
+		<name>
+		Arghnish
+		</name>
+		<college>
+			AIMS
+		</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>arghnish@gmail.com</email>
+	</item>
+
+	<item>
+		<usn>19SKSAC010</usn>
+		<name>
+		Vinod
+		</name>
+		<college>
+			AIMS
+		</college>
+		<branch>MCA</branch>
+		<year>2019</year>
+		<email>vinod@gmail.com</email>
+	</item>
+</items>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <?xml version="1.0" encoding="utf-8" ?>
+<bu>
+	<student>
+		<usn>16CQSLC001</usn>
+		<name>DHANUSH</name>
+		<college>DSI</college>
+		<branch>MCA</branch>
+		<year>2017</year>
+		<email>dhanush@gmail.com</email>
+	</student>
+	<student>
+		<usn>16CQSLC001</usn>
+		<name>RAJATH</name>
+		<college>DSI</college>
+		<branch>MCA</branch>
+		<year>2017</year>
+		<email>rajath@gmail.com</email>
+	</student>
+	<student>
+		<usn>16CQSLC001</usn>
+		<name>SUMANTH</name>
+		<college>DSI</college>
+		<branch>MCA</branch>
+		<year>2017</year>
+		<email>sumanth@gmail.com</email>
+	</student>
+</bu> -->

@@ -1,0 +1,33 @@
+<!--Develop and demonstrate a XHTML file that includes Javascript script to generate first n Fibonacci numbers. -->
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Fibonacci Series</title>
+	
+</head>
+<body>
+	<script type="text/javascript">
+
+			var var1 = 0;
+			var var2 = 1;
+			var var3;
+
+			var n = window.prompt("Enter a number to generate Fibonacci Series");
+			document.write("<h3>Fibonacci series</h3>")
+
+			if(n == 0)
+				document.write("<h3>Entered element is ZERO</h3>");
+			else
+				document.write(var1+"<br>"+var2+"<br>");
+				for (var i = 2; i < n; i++) {
+					var3 = var1 + var2;
+					var1 = var2;
+					var2 = var3;
+					document.write(var3+"<br>");
+				}
+
+	</script>
+</body>
+</html>
